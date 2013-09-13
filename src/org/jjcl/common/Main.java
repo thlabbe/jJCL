@@ -10,7 +10,7 @@ public class Main {
 
 	private void run() {
 		System.out.println("run");
-		// comment
+		
 	}
 
 }
